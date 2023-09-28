@@ -1,7 +1,11 @@
-# Centennial College
+
 # Assignment 1 - My Portfolio
 
 Welcome to my portfolio project! This project is my web portfolio where I showcase my skills and projects.
+
+## Author
+
+- Elena Ogneva | Centennial College | COMP229
 
 ## Description
 
@@ -30,9 +34,7 @@ To run this project locally, follow these steps:
 3. Start the application: `npm start`
 4. Open your browser and navigate to `http://localhost:3000` to view the portfolio.
 
-## Author
 
-- Elena Ogneva
   
 
 Feel free to explore the project and reach out if you have any questions or feedback!
